@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Anuradha</h1>
-<h3 align="center">An Ambitious Software Engineering Student from Sri Lanka</h3>
+<h3 align="center">An Ambitious Intern Software Engineere from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun-anuradha&label=Profile%20views&color=0e75b6&style=flat" alt="nipun-anuradha" /> </p>
 
